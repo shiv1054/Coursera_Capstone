@@ -1,0 +1,40 @@
+The Battle of the Neighborhoods - Week 1 
+ 
+Introduction & Business Problem : 
+Problem Background: 
+The City of New York, is the most populous city in the United States. It is diverse and is the financial capital of USA. It is multicultural.
+This City is  very crowded with the people from all over the world. So In New York , people are from different culture and demographic. Due to this fact , eating habits are different . A lot of business opportunities are there, along with lots of competitions as there are many players in the restaurant business. Leaving standard are very high in this city , so people's choice are of very high standards. This city is the center of the lots of business and commerce. Banking and finance, trade, tourism, retailing,  exporting, real estate, insurance and lots of others major field in which US is highly advance, giving a major opportunities to the business player to do their business and earn profits.
+But at the same time the business environment is very competitive , so every players in the markets are doing each and every steps to be in the high demand. To keep the competitiveness of the New York in the mind ,  for the set up a new Venture a market analysis is highly required . The strategic thinking and analysis of the markets will give a good insights to the Business player to set up a venture at the right place, that would minimize the business risk at its budding stage. And keep alive the business with Reasonable return. 
+ 
+ Problem Description: 
+Restaurants provide food and drink to the people . People pay the money to get the food from the restaurants. So people can buy any food that a particular restaurant serves its customers. 
+New York city has huge populations with  people of different cuisines. Restaurants  can of a particular cuisines targeting a particular community of a the people, like Chinese,  Italians , Thai etc.
+ 
+Some restaurants are providing the fast food and Pizzas.
+Some are providing Asian foods
+As New York city has the immigrants all over the world so customers are of the different cuisines and food habits. 
+So base line is that to survive in the restaurant business  one has to make a strategic plans and analytical study that study the New York City  business  environment and its customers segmentations.
+So many points to be considered while researching the business set up in the New York
+These points can be :
+ 
+Location: Location is the major  considerable facts that decides the volume of the customers reach the restaurant.
+Cost of transportation: cost of transportation of the raw vegetable and other ingredients  should be easily available.
+Competition  in the nearby area: to study the competitors in the markets.
+Timing of the restaurant  opening and closing
+Customers likes and dislikes 
+Wholesale market's availability nearby to get the raw materials 
+Famous tourist spots 
+ 
+ 
+To test the business model , company start its venture in a location and then start at the other same type of locations if the first business is successful.
+ 
+Target Audience: 
+ 
+Management want to know the correct business set up location for their new restaurant. So they want a data science resource who can do the data analysis and then recommend the management a correct location to start the new venture.so as a data scientist my job is to recommend the best possible location with rationale behind each and every points that I took into the considering the recommended location.
+ 
+Success Criteria: 
+The success criteria of the project will be a good recommendation of borough/Neighborhood choice to the  Company  based on Lack of such restaurants in that location and nearest suppliers of ingredients.
+ 
+ 
+ 
+
